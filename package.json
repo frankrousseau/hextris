@@ -1,0 +1,12 @@
+{
+  "name": "hextris",
+  "cozy-type": "static",
+  "displayName": "Hextris",
+  "version": "1.0.0",
+  "description": "Hextris game",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankrousseau/hextris.git"
+  },
+  "main": "index.html"
+}
